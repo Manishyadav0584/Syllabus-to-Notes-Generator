@@ -1,0 +1,6 @@
+streamlit
+groq
+python-docx
+python-dotenv
+pytest
+reportlab
